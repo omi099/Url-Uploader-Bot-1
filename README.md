@@ -23,7 +23,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/MrAbhi2k3/Url-Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/omi099/Url-Uploader-Bot)
 
 
 
